@@ -1,2 +1,5 @@
-# Relvise-landing
+# Relvise
 Relvise - сайт с адаптивной версткой
+
+### Запуск
+- Открыть файл index.html в браузере
